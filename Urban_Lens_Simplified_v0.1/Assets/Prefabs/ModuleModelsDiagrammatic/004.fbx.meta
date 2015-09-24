@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 4e2ac59fc4172414bb73cb2d765a63fc
+timeCreated: 1440995015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 00_WHITE
+    100004: 01_BLACK
+    100006: 02_BEIGE
+    100008: 03_RED
+    100010: 04_YELLOW
+    100012: 05_BLUE
+    100014: 06_GREEN
+    100016: 07_GRAY_BRIGHT
+    100018: 08_GRAY_MID
+    100020: 09_GRAY_DARK
+    100022: 10_GREEN_BRIGHT
+    100024: black_outline
+    100026: black_outline_2
+    100028: BLOCKS
+    100030: cafe_diagrammatic2
+    100032: cafe_trans
+    100034: ColorRealisticBlocks
+    100036: commercial
+    100038: commercial_diagrammatic
+    100040: concrete
+    100042: Default
+    100044: DiagramaticColorBlocks
+    100046: DIAGRAMMATIC 1
+    100048: DIAGRAMMATIC 2
+    100050: DIAGRAMMATIC 3
+    100052: floor_slabs
+    100054: floor_slabs_2
+    100056: floor_slabs_3
+    100058: furniture
+    100060: hidden
+    100062: Inside Cut
+    100064: LEGO BRICKS
+    100066: LegoProxyBlocks
+    100068: lines
+    100070: lines_2
+    100072: Make2D
+    100074: NO Cut
+    100076: Object_1
+    100078: Object_10
+    100080: Object_11
+    100082: Object_12
+    100084: Object_13
+    100086: Object_14
+    100088: Object_15
+    100090: Object_16
+    100092: Object_17
+    100094: Object_18
+    100096: Object_19
+    100098: Object_2
+    100100: Object_20
+    100102: Object_21
+    100104: Object_3
+    100106: Object_4
+    100108: Object_5
+    100110: Object_6
+    100112: Object_7
+    100114: Object_8
+    100116: Object_9
+    100118: office
+    100120: office_diagrammatic
+    100122: office_diagrammatic2
+    100124: office_largeUnit
+    100126: office_smallUnit
+    100128: office_trans
+    100130: office_wholeFloor
+    100132: OptimizedVoxelBlocks
+    100134: Outside Cut
+    100136: PHOTO-REALISTIC
+    100138: PhotoRealisticBlocks
+    100140: residential
+    100142: residential_diagrammatic
+    100144: residential_diagrammatic2
+    100146: residential_trans
+    100148: restaurant_diagrammatic2
+    100150: retail_diagrammatic2
+    100152: retail_trans
+    100154: roof
+    100156: school_diagrammatic2
+    100158: school_trans
+    100160: tangents
+    100162: tangents_2
+    100164: text object
+    100166: text_white_trans
+    100168: visible
+    400000: //RootNode
+    400002: 00_WHITE
+    400004: 01_BLACK
+    400006: 02_BEIGE
+    400008: 03_RED
+    400010: 04_YELLOW
+    400012: 05_BLUE
+    400014: 06_GREEN
+    400016: 07_GRAY_BRIGHT
+    400018: 08_GRAY_MID
+    400020: 09_GRAY_DARK
+    400022: 10_GREEN_BRIGHT
+    400024: black_outline
+    400026: black_outline_2
+    400028: BLOCKS
+    400030: cafe_diagrammatic2
+    400032: cafe_trans
+    400034: ColorRealisticBlocks
+    400036: commercial
+    400038: commercial_diagrammatic
+    400040: concrete
+    400042: Default
+    400044: DiagramaticColorBlocks
+    400046: DIAGRAMMATIC 1
+    400048: DIAGRAMMATIC 2
+    400050: DIAGRAMMATIC 3
+    400052: floor_slabs
+    400054: floor_slabs_2
+    400056: floor_slabs_3
+    400058: furniture
+    400060: hidden
+    400062: Inside Cut
+    400064: LEGO BRICKS
+    400066: LegoProxyBlocks
+    400068: lines
+    400070: lines_2
+    400072: Make2D
+    400074: NO Cut
+    400076: Object_1
+    400078: Object_10
+    400080: Object_11
+    400082: Object_12
+    400084: Object_13
+    400086: Object_14
+    400088: Object_15
+    400090: Object_16
+    400092: Object_17
+    400094: Object_18
+    400096: Object_19
+    400098: Object_2
+    400100: Object_20
+    400102: Object_21
+    400104: Object_3
+    400106: Object_4
+    400108: Object_5
+    400110: Object_6
+    400112: Object_7
+    400114: Object_8
+    400116: Object_9
+    400118: office
+    400120: office_diagrammatic
+    400122: office_diagrammatic2
+    400124: office_largeUnit
+    400126: office_smallUnit
+    400128: office_trans
+    400130: office_wholeFloor
+    400132: OptimizedVoxelBlocks
+    400134: Outside Cut
+    400136: PHOTO-REALISTIC
+    400138: PhotoRealisticBlocks
+    400140: residential
+    400142: residential_diagrammatic
+    400144: residential_diagrammatic2
+    400146: residential_trans
+    400148: restaurant_diagrammatic2
+    400150: retail_diagrammatic2
+    400152: retail_trans
+    400154: roof
+    400156: school_diagrammatic2
+    400158: school_trans
+    400160: tangents
+    400162: tangents_2
+    400164: text object
+    400166: text_white_trans
+    400168: visible
+    2300000: Object_1
+    2300002: Object_10
+    2300004: Object_11
+    2300006: Object_12
+    2300008: Object_13
+    2300010: Object_14
+    2300012: Object_15
+    2300014: Object_16
+    2300016: Object_17
+    2300018: Object_18
+    2300020: Object_19
+    2300022: Object_2
+    2300024: Object_20
+    2300026: Object_21
+    2300028: Object_3
+    2300030: Object_4
+    2300032: Object_5
+    2300034: Object_6
+    2300036: Object_7
+    2300038: Object_8
+    2300040: Object_9
+    3300000: Object_1
+    3300002: Object_10
+    3300004: Object_11
+    3300006: Object_12
+    3300008: Object_13
+    3300010: Object_14
+    3300012: Object_15
+    3300014: Object_16
+    3300016: Object_17
+    3300018: Object_18
+    3300020: Object_19
+    3300022: Object_2
+    3300024: Object_20
+    3300026: Object_21
+    3300028: Object_3
+    3300030: Object_4
+    3300032: Object_5
+    3300034: Object_6
+    3300036: Object_7
+    3300038: Object_8
+    3300040: Object_9
+    4300000: Object_3
+    4300002: Object_5
+    4300004: Object_7
+    4300006: Object_8
+    4300008: Object_9
+    4300010: Object_14
+    4300012: Object_15
+    4300014: Object_16
+    4300016: Object_18
+    4300018: Object_20
+    4300020: Object_2
+    4300022: Object_4
+    4300024: Object_6
+    4300026: Object_10
+    4300028: Object_11
+    4300030: Object_12
+    4300032: Object_13
+    4300034: Object_17
+    4300036: Object_19
+    4300038: Object_21
+    4300040: Object_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
